@@ -1,6 +1,6 @@
 # TGFDN
 
-An enhanced [GFDN](https://github.com/yujianke100/GFDN) that can use timing information
+An enhanced [GFDN](https://github.com/yujianke100/GFDN) that can use temporal information
 
 ## QueryOPT
 The project that helps us implement (alpha, beta)-core is [QueryOPT](https://github.com/boge-liu/alpha-beta-core).
